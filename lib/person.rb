@@ -12,7 +12,7 @@ attr_accessor {:name,
                :wrist_size,
                :glove_size,
                :pant_length,
-               :pant_width
+               :pant_width}
 
   def initialize(attributes=nil)
     if attributes
